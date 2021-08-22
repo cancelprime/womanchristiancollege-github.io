@@ -1,0 +1,17 @@
+#climaterot{
+    width:100% !important; position: relative !important;
+}
+#climaterot img{
+    width:100% !important; height:280px;
+}
+
+.et_shortcodes_controller_nav{
+    display: none;
+}
+#cs-buttons-climaterot{
+    display: none;
+}
+.custom-map{
+    display: none;
+}
+
